@@ -1,6 +1,6 @@
-# DecoFurni
+# Furniture Shop
 
-decoFurni is an e-commerce platform built using Next.js and TypeScript. The platform enables users to browse, filter, and purchase various home decoration and furniture products.
+Furniture Shop is an e-commerce platform built using Next.js and TypeScript. The platform enables users to browse, filter, and purchase various home decoration and furniture products.
 
 
 ## Features
