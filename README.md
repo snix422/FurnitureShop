@@ -1,3 +1,34 @@
+### Installation
+
+Follow these steps to set up the project:
+
+1. Clone the repo
+```sh
+  git clone https://github.com/FuuKowatty/Landing-page.git
+```
+2. Navigate to your project directory
+```sh
+  cd Landing-page
+```
+
+3. Install yarn packages
+```sh
+  npm install
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<a name="usage"></a>
+## Usage
+
+To run the project locally, use the following command:
+
+```sh
+  npm run dev
+```
+
 # Furniture Shop
 
 Furniture Shop is an e-commerce platform built using Next.js and TypeScript. The platform enables users to browse, filter, and purchase various home decoration and furniture products.
