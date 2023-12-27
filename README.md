@@ -4,11 +4,11 @@ Follow these steps to set up the project:
 
 1. Clone the repo
 ```sh
-  git clone https://github.com/FuuKowatty/Landing-page.git
+  https://github.com/snix422/FurnitureShop.git
 ```
 2. Navigate to your project directory
 ```sh
-  cd Landing-page
+  cd FurnitureShop
 ```
 
 3. Install yarn packages
@@ -28,6 +28,14 @@ To run the project locally, use the following command:
 ```sh
   npm run dev
 ```
+
+## Built With
+- Next.js
+- TypeScript
+- Redux Toolkit
+- React Hook Form
+- Firebase
+- Axios
 
 # Furniture Shop
 
